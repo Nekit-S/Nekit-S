@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Nikita Safronov! 👋
 
-<!--
-**Nekit-S/Nekit-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer with a passion for creating interesting projects and solving complex problems. My journey in IT started with a fascination for programming, and now I'm actively exploring different areas, from web development to game creation.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies and Skills
+- **Programming Languages**: Java, C++, C#
+- **Web Technologies**: HTML, CSS
+- **Databases**: MySQL, LightSQL
+- **Game Technologies**: Unity
+- **Other Tools**: Git, Cisco Packet Tracer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+Here are a few projects I've worked on:
+
+### 🏠 Java Desktop Application
+- **Description**: A real estate management application with features for adding, editing, and deleting records.
+- **Technologies**: Java, LightSQL
+- **Note**: The project is not yet on GitHub, but it will be added soon!
+
+### 🌐 Static Web Pages
+- **Description**: Basic web pages built using HTML and CSS.
+- **Technologies**: HTML, CSS
+- **Note**: The project is not yet on GitHub, but it will be added soon!
+
+### 🎮 2D Unity Game
+- **Description**: A simple 2D side-scroller game with pixel art.
+- **Technologies**: Unity, C#
+- **Note**: The project is not yet on GitHub, but it will be added soon!
+
+## 📚 Education
+- Kwantlen Polytechnic University , Computer Information Systems
+
+## 📫 How to Reach Me
+- **Email**: safronov.u.nik@gmail.com
+- **Telegram**: _
+- **LinkedIn**: _
