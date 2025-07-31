@@ -22,11 +22,6 @@ Here are a few projects I've worked on:
 - **Technologies**: HTML, CSS
 - **Note**: The project is not yet on GitHub, but it will be added soon!
 
-### 🎮 2D Unity Game
-- **Description**: A simple 2D side-scroller game with pixel art.
-- **Technologies**: Unity, C#
-- **Note**: The project is not yet on GitHub, but it will be added soon!
-
 ## 📚 Education
 - Kwantlen Polytechnic University , Computer Information Systems
 
